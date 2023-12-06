@@ -17,7 +17,6 @@ const CenteredContent = () => {
         "Kukka pilla ❤️",
         "i miss you 🫂",
         "Baby ily kadha 🫂❤️",
-        "Happy Birthday to you Maa❤️ i love you infinite♾️🫂💯",
       ];
 
       setLovelyData(lovelyArray);
